@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "functions": {
+    "api/verify.js": {
+      "runtime": "nodejs18.x",
+      "memory": 128,
+      "maxDuration": 10
+    }
+  }
+}
